@@ -136,9 +136,38 @@ table {
 body{
     padding: 0;
 }
-header{
-    height: 300px;
+.header-form{
+
     background-color: rgb(2, 34, 34);
-    width: 100vw;
+
     color: aqua;
+    
+}
+header a {
+    color: aqua;
+}
+.main-content{
+    background-color: rgb(0, 255, 34);
+}
+.post{
+    background-color: blueviolet;
+}
+body{
+    font-family: Merriweather;
+    font-size: 18px;
+    line-height: 32px;
+    color:#333;
+}
+h1,
+h2 {
+    font-family:poppins;
+    font-size: 28.8px;
+}
+h2{
+    font-size: 25.6px;
+    color:#a7dfb5
+}
+header p{
+    font-size: 18px;
+    letter-spacing: 2px;
 }
